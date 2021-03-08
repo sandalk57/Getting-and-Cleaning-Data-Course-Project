@@ -1,11 +1,5 @@
----
-title: "Code Book for Getting and Cleaning Data Course Project"
-output: github_document
----
+# Code Book for Getting and Cleaning Data Course Project
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 The final tidy data set __tidy_data.txt__ contains the average of each variable for each activity and subject.
 
 See the __README.md__ file of this repository for data set description.

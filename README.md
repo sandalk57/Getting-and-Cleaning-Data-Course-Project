@@ -1,7 +1,5 @@
----
-title: "Data Science Specialization: Getting and Cleaning Data Course Project"
-output: github_document
----
+# Data Science Specialization: Getting and Cleaning Data Course Project
+
 
 
 ## Project
